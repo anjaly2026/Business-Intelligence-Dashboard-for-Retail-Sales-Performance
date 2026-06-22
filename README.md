@@ -232,5 +232,6 @@ Insight 7 : Correlation Insights
 * Implement targeted marketing campaigns to improve sales and profitability.
 
 
-👩‍💻 Author
-ANJALY SHABU
+# 👩‍💻 Author
+
+ANJALY SHABU   GitHub:https://github.com/Anjaly2026
