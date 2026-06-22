@@ -6,7 +6,7 @@ An end-to-end data analytics project that analyzes retail sales performance to i
 
 ---
 
-📌 Project Overview
+### 📌 Project Overview
 
 The Problem
 
@@ -25,7 +25,7 @@ This project uses Python for data preprocessing and Exploratory Data Analysis (E
 
 ---
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 
 This project aims to:
 
@@ -38,7 +38,7 @@ This project aims to:
 
 ---
 
-📊 Dataset Information
+### 📊 Dataset Information
 
 Dataset: Sample Superstore Dataset
 
@@ -61,7 +61,7 @@ Dataset contains information such as:
 
 ---
 
-🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 Programming Language
 
@@ -84,7 +84,7 @@ Development Environment
 
 ---
 
-🧹 Data Cleaning & Preprocessing
+### 🧹 Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -104,7 +104,7 @@ The following preprocessing steps were performed:
 
 ---
 
-📈 Exploratory Data Analysis (EDA)
+### 📈 Exploratory Data Analysis (EDA)
 
 The following visualizations were created:
 
@@ -133,7 +133,7 @@ Bivariate Analysis
 
 ---
 
-📊 Power BI Dashboard Structure
+### 📊 Power BI Dashboard Structure
 
 Dashboard 1: Executive Summary
 
@@ -158,7 +158,7 @@ Dashboard 3: Profitability Analysis
 
 ---
 
-💡 Key Insights
+### 💡 Key Insights
 
 Insight 1 : Sales Performance Insights
 
@@ -203,7 +203,7 @@ Insight 7 : Correlation Insights
 
 ---
 
-🎯 Business Recommendations
+### 🎯 Business Recommendations
 
 * Reduce excessive discounting.
 * Focus marketing on profitable regions.
@@ -232,6 +232,6 @@ Insight 7 : Correlation Insights
 * Implement targeted marketing campaigns to improve sales and profitability.
 
 
-# 👩‍💻 Author
+### 👩‍💻 Author
 
 ANJALY SHABU   GitHub:https://github.com/Anjaly2026
